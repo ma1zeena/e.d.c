@@ -259,7 +259,7 @@
     font-weight:none;
   }
   a img{
-  border:none !important;
+	border:none !important;
 }
 #container{
 	margin:0 auto;
@@ -498,8 +498,8 @@ src="">
 <tr><td class='white' bgcolor=#3B5998>Sobre a Empresa</td></tr></table>&nbsp;<br><center>
 <table cellspacing=0 cellpadding=2 border=0 width=95%><tr><td>
 <table cellspacing=0 cellpadding=4 border=0> 
-<tr><td width=100px><a href='profile.php?id=4'>Giovani Castilho</a>&nbsp;&nbsp;</td><td>Founder, Master and Commander, Enemy of the State of thefacebook.com. Without him, this project would not exist.</td></tr>
-<tr><td><a href='profile.php?id=3'>Jeffrey Bachand</a>&nbsp;&nbsp;</td><td>Some say that he's a CIA experiment gone wrong, and that he only eats cheese... all we know is, he's not the Stig, but he is the Stig's American cousin!</td></tr>
+<tr><td width=100px><a href='profile.php?id=4'>Giovani Castilho</a>&nbsp;&nbsp;</td><td>Fundador, CEO, Programador Chefe, Chefe de Conhecimentos Gerais e Idealista, sem ele esse projeto, impresa, servicos e site, provavelmente nao existiria.</td></tr>
+<tr><td><a href='profile.php?id=3'>Luigi Mossolin</a>&nbsp;&nbsp;</td><td>Co-Fundador, CO-CEO, Designer Grafico e Testador de Html, atua nas areas de WwebDesigner com Html e principalmente na area de Designer Grafico.</td></tr>
 <tr><td>&nbsp;</td><td></td></tr>  
 
 
